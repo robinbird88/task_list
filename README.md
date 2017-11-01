@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Link to website .  https://ghastly-barrow-12690.herokuapp.com/
+This simple to do list app was built using Ruby on Rails. It has the power to create, edit, update and destroy tasks. Styled using CSS and Bootstrap.
